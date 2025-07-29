@@ -13,6 +13,9 @@
   idx = {
     extensions = [
       "vue.volar"
+      "dbaeumer.vscode-eslint"
+      "EditorConfig.EditorConfig"
+      "esbenp.prettier-vscode"
     ];
 
     previews = {
