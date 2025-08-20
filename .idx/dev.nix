@@ -16,6 +16,7 @@
       "dbaeumer.vscode-eslint"
       "EditorConfig.EditorConfig"
       "esbenp.prettier-vscode"
+      "pkief.material-icon-theme"
     ];
 
     previews = {
