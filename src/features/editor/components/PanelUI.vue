@@ -1,13 +1,13 @@
 <script setup lang="ts"></script>
 
 <template>
-  <section id="painel-container">
-    <slot id="painel-content"></slot>
+  <section id="panel-container">
+    <slot id="panel-content"></slot>
   </section>
 </template>
 
 <style scoped>
-#painel-container {
+#panel-container {
   width: 100%;
   height: 100%;
   padding: 0.25rem 0.5rem;
